@@ -24,10 +24,15 @@
     
     
     [self sayHello];
+    [self sayBayBay];
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(void)sayHello{
     NSLog(@"Hello");
+}
+-(void)sayBayBay
+{
+    NSLog(@"BayBay");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
