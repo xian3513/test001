@@ -1,2 +1,4 @@
 git is a distributed version control system
-git tracks change
+git tracks change of files
+
+
